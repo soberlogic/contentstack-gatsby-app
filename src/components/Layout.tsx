@@ -7,7 +7,7 @@
 import React from "react"
 import Header from "./Header"
 import Footer from "./Footer"
-import DevTools from "./Devtools"
+import DevTools from "./DevTools"
 import { connect } from "react-redux"
 import { HeaderProps, FooterProps, PageProps, Posts } from "../typescript/layout";
 import { Banner, Component } from "../typescript/component"
